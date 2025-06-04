@@ -1,0 +1,69 @@
+body {
+    font-family: "Inter", sans-serif;
+    font-size: 15px;
+    color: #1F1F1F;
+    margin: 0;
+}
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+p{
+    margin: 0;
+}
+.header{
+    height: 100px;
+    display:flex;
+    background-color: #E1EDE6;
+}
+.header-1{
+    display: flex;
+    width: 143px;
+    height: 45px;
+    margin-top: 33px;
+    margin-left: 165px;
+}
+.header-2{
+    display: flex;
+    width: 470px;
+    height: 24px;
+    gap: 58px;
+    margin-left: 497px;
+    margin-top: 38px;
+}
+.korzina{
+    width: 24px;
+}
+.header-p{
+    width: 100px;
+    height: 23px;
+    text-align: center;
+    margin-top: 6px;
+    margin-left: 8px;
+    font-size: 20px;
+    font-weight: 700;
+    color: #598D66;
+}
+.star-1{
+    width: 35px;
+}
+.production{
+    height: 620px;
+    display: flex;
+}
+.bird-1{
+    width: 540px;
+    height: 621px;
+    margin-left: 165px;
+}
+.prod{
+    width: 540px;
+    height: 331px;
+    margin-left: 30px;
+    margin-top: 145px;
+}
+.prod-h1{
+    width: 540px;
+    height: 132px;
+    margin: 0;
+}
