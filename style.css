@@ -202,6 +202,10 @@ main .first_section .container .texts button:hover {
     cursor: pointer;
     background-color: transparent;
 }
+.second_section .container .cards .card button:hover {
+    background-color: #376B44;
+    color: #fff;
+}
 
 .three_section {
     background: url(../images/background.svg);
@@ -254,6 +258,10 @@ main .first_section .container .texts button:hover {
     outline: none;
     padding: 18px 40px;
 }
+.three_section .container button:hover {
+    background-color: #f38226a8;
+    color: #fff;
+}
 
 .fourth_section {
     width: 100%;
@@ -292,7 +300,6 @@ main .first_section .container .texts button:hover {
     align-items: center;
     gap: 30px;
 }
-
 footer {
     width: 100%;
     background-color: #E1EDE6;
